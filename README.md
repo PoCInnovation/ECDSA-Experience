@@ -1,12 +1,19 @@
-> If you see this section, you've just created a repository using [PoC Innovation's Open-Source project template](https://github.com/PoCInnovation/open-source-project-template). Check the [getting started guide](./.github/getting-started.md).
+# [ECDSA experience]
 
-# [PROJECT'S NAME]
+Experience is an advanced workshop during 5-6 hours composed by
+- a **talk**
+- a **FAQ** 
+- **Several workshops** from different level
 
-[Project's description]
+The **goal** of an experience is to have a **good comprehension**, and **lot of knowledge** about a subject in this amount of time.
+
+Here we will work on **ECDSA** (**E**lliptic **C**urve **D**igital **S**ignature **A**lgorithm) which is a variant of **DSA** (**D**igital **S**ignature **A**lgorithm) which uses elliptic curve cryptography.
+
+This system is used to create a digital signature that allows third-party verification without compromising security.
 
 ## How does it work?
 
-[Explain how this project is working]
+You will find differents exercices, the level of difficulty varies a lot from **very easy** to **very hard**. Your goal is to success every challenges and find every flags 
 
 ## Getting Started
 
@@ -21,10 +28,6 @@
 ### Usage
 
 [Explain how to use this project]
-
-## Get involved
-
-You're invited to join this project ! Check out the [contributing guide](./CONTRIBUTING.md).
 
 If you're interested in how the project is organized at a higher level, please contact the current project manager.
 
