@@ -19,22 +19,24 @@ You will find differents exercices, the level of difficulty varies a lot from **
 
 ### Installation
 
-[Explain how to install all of the project's dependencies]
+You will need the function ```ìnverse``` from the pycryptodome in python's library. To install it use this command below :
+
+```pip install pycryptodome```
 
 ### Quickstart
 
-[Explain how to run this project]
+Download the files and install all dependencies. Then open the Jupiter Notebook file in an text editor such as **VScode**.
 
 ### Usage
 
-[Explain how to use this project]
+You mostly going to use the Jupiter Notebook file. A lots of informations are written inside for your comprehension and you can also edit some code inside.
 
-If you're interested in how the project is organized at a higher level, please contact the current project manager.
+If you're interested in how the project is organized at a higher level, please contact us.
 
 ## Our PoC team :heart:
 
 Developers
-| [<img src="https://github.com/Antonyjin.png?size=85" width=85><br><sub>[Antony Jin]</sub>](https://github.com/Antonyjin) | [<img src="https://github.com/ThisisYoYoDev.png?size=85" width=85><br><sub>[Yoel Edery]</sub>](https://github.com/ThisisYoYoDev)
+| [<img src="https://github.com/ThisisYoYoDev.png?size=85" width=85><br><sub>[Yoel Edery]</sub>](https://github.com/ThisisYoYoDev) | [<img src="https://github.com/Antonyjin.png?size=85" width=85><br><sub>[Antony Jin]</sub>](https://github.com/Antonyjin)
 | :---: | :---: |
 
 <h2 align=center>
